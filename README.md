@@ -18,7 +18,7 @@ This project demonstrates how to:
 * Run the Node.js application inside a Docker container
 * Configure the EC2 Security Group
 * Access the application through a web browser
-* Push the project to GitHub
+* Push the project to GitHub. 
 
 ---
 
